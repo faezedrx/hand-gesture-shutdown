@@ -31,11 +31,13 @@ This project detects hand gestures, specifically a "cross-hands" gesture, using 
 
 ## Usage
 1. Run the Python script:
+   
   ```bash
   python hand_shutdown.py
   ```
 2. The webcam feed will open. Show your hands to the camera.
 3. When the hands are crossed, the system will automatically shut down.
+   
 **Press q to exit the program manually without shutting down the system.**
 
 ## Requirements
