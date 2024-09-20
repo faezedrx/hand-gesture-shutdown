@@ -11,7 +11,7 @@ mp_drawing = mp.solutions.drawing_utils
 def shutdown_system():
     print("System shutting down...")
     os.system("shutdown /s /t 1")  # برای ویندوز
-    # برای لینوکس از دستور زیر استفاده کنید
+    # برای لینوکس از دستور زیر 
     # os.system("sudo shutdown now")
 
 # تابع برای تشخیص حالت ضربدر
